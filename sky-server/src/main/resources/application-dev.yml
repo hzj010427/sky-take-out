@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: Jkluio123456@@
+  alioss: # TODO 修改成amazon s3的密钥
+    endpoint: oss-us-east-1.aliyuncs.com
+    access-key-id: LTAI5tGDwL3kDaFhsAidZVFH
+    access-key-secret: 3svBWz5CClixeW5b5DBFnfipHoepTf
+    bucket-name: zh-personal-project
