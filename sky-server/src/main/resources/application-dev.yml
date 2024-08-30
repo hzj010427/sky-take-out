@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tGDwL3kDaFhsAidZVFH
     access-key-secret: 3svBWz5CClixeW5b5DBFnfipHoepTf
     bucket-name: zh-personal-project
+  redis:
+    host: localhost
+    port: 6379
+    password: Jkluio123456@@
+    database: 10
