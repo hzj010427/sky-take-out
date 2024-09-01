@@ -16,3 +16,6 @@ sky:
     port: 6379
     password: Jkluio123456@@
     database: 10
+  wechat:
+    appid: wx4765d85d2c491666
+    secret: 468070bdfbf8a2e1b618109da752a7c4
