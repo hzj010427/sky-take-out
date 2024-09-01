@@ -8,8 +8,8 @@ sky:
     password: Jkluio123456@@
   alioss: # TODO 修改成amazon s3的密钥
     endpoint: oss-us-east-1.aliyuncs.com
-    access-key-id: LTAI5tGDwL3kDaFhsAidZVFH
-    access-key-secret: 3svBWz5CClixeW5b5DBFnfipHoepTf
+    access-key-id:
+    access-key-secret:
     bucket-name: zh-personal-project
   redis:
     host: localhost
@@ -17,5 +17,5 @@ sky:
     password: Jkluio123456@@
     database: 10
   wechat:
-    appid: wx4765d85d2c491666
-    secret: 468070bdfbf8a2e1b618109da752a7c4
+    appid:
+    secret:
